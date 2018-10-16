@@ -1,0 +1,6 @@
+C:\CC6\HW11\TempConverter\TempConverter.Business\bin\Debug\TempConverter.Business.dll
+C:\CC6\HW11\TempConverter\TempConverter.Business\bin\Debug\TempConverter.Business.pdb
+C:\CC6\HW11\TempConverter\TempConverter.Business\obj\Debug\TempConverter.Business.csprojAssemblyReference.cache
+C:\CC6\HW11\TempConverter\TempConverter.Business\obj\Debug\TempConverter.Business.csproj.CoreCompileInputs.cache
+C:\CC6\HW11\TempConverter\TempConverter.Business\obj\Debug\TempConverter.Business.dll
+C:\CC6\HW11\TempConverter\TempConverter.Business\obj\Debug\TempConverter.Business.pdb
