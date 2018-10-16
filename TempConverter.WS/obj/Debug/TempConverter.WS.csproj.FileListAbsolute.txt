@@ -1,0 +1,2 @@
+C:\CC6\HW11\TempConverter\TempConverter.WS\obj\Debug\TempConverter.WS.csprojAssemblyReference.cache
+C:\CC6\HW11\TempConverter\TempConverter.WS\obj\Debug\TempConverter.WS.csproj.CoreCompileInputs.cache
